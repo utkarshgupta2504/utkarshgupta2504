@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **utkarshgupta2504@gmail.com**
 
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wiIMWpCR3nyPmDxyjM8nN_y60Jz-6JF8/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/utkarshgupta2504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarshgupta2504" height="30" width="40" /></a>
@@ -22,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshgupta2504&show_icons=true&theme=dark&locale=en" alt="utkarshgupta2504" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshgupta2504&theme=dark" alt="utkarshgupta2504" /></p>
+
+### Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshgupta2504" alt="utkarshgupta2504" /></a> </p>
