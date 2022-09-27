@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Gupta</h1>
-<h3 align="center">An aspiring programmer, always ready to learn new things!</h3>
+<p align="center">
+<img src="http://readme-typing-svg.herokuapp.com/?size=30&height=30&color=20C20E&center=true&vCenter=true&duration=3000&lines=%3E%20Utkarsh%20Gupta" />
+</p>
+<h3 align="center">An aspiring programmer, always ready to learn more!</h3>
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
