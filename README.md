@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">An aspiring programmer, always ready to learn more!</h3>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning**
+- 🌱 I’m currently learning **Web3.0, Machine Learning**
 
 - 💬 Ask me about **Flutter, MERN Stack**
 
