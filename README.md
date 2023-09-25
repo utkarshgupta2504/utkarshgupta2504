@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshgupta2504&show_icons=true&theme=dark&locale=en&layout=compact" alt="utkarshgupta2504" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshgupta2504&show_icons=true&theme=dark&locale=en" alt="utkarshgupta2504" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshgupta2504&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private=true" alt="utkarshgupta2504" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshgupta2504&theme=dark" alt="utkarshgupta2504" /></p>
 <h3>Trophies: </h3>
