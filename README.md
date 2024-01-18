@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **utkarshgupta2504@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1m8d6QAwC220K4hqbbxrXPNGy8j8yaGFt/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1BiLfy7qesOADyG1OgEa6tWitsGcFt79A/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
