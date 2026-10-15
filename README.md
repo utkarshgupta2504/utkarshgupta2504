@@ -1,38 +1,147 @@
+<a href="https://curvet.ai"><img src="assets/hero.svg" width="100%" alt="Utkarsh Gupta, Co-Founder & CTO of Curvet. I build AI products end to end."></a>
+
 <p align="center">
-<img src="http://readme-typing-svg.herokuapp.com/?size=30&height=30&color=20C20E&center=true&vCenter=true&duration=3000&lines=%3E%20Utkarsh%20Gupta" />
-</p>
-<h3 align="center">An aspiring programmer, always ready to learn more!</h3>
-
-- 🌱 I’m currently learning **Web3.0, Machine Learning**
-
-- 💬 Ask me about **Flutter, MERN Stack**
-
-- 📫 How to reach me **utkarshgupta2504@gmail.com**
-
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1BiLfy7qesOADyG1OgEa6tWitsGcFt79A/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/utkarshgupta2504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarshgupta2504" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/utkarshg04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="utkarshg04" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/utkarshgupta2504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utkarshgupta2504" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/utkarshgupta2504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarshgupta2504" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/utkarshgupta2504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="utkarshgupta2504" height="30" width="40" /></a>
+  <a href="https://curvet.ai"><img src="assets/pill-curvet.svg" height="38" alt="curvet.ai"></a>
+  <a href="https://utkarshg.is-a.dev"><img src="assets/pill-site.svg" height="38" alt="utkarshg.is-a.dev"></a>
+  <a href="https://linkedin.com/in/utkarshgupta2504"><img src="assets/pill-linkedin.svg" height="38" alt="LinkedIn"></a>
+  <a href="https://x.com/Utkarsh2504"><img src="assets/pill-x.svg" height="38" alt="X / Twitter"></a>
+  <a href="https://www.npmjs.com/package/@curvet/sdk"><img src="assets/pill-npm.svg" height="38" alt="npm"></a>
+  <a href="mailto:utkarshgupta2504@gmail.com"><img src="assets/pill-email.svg" height="38" alt="Email"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<img src="assets/stats.svg" width="100%" alt="100+ AI models behind one API · 28 providers · 3 npm packages · 10M+ Galaxy users at Samsung">
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/utkarshgupta"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="utkarshgupta" /></a></p><br><br>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshgupta2504&show_icons=true&theme=dark&locale=en&layout=compact" alt="utkarshgupta2504" /></p>
+### Building Curvet
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshgupta2504&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private=true" alt="utkarshgupta2504" /></p>
+[Curvet](https://curvet.ai) puts every major model for chat, image, video, voice and 3D behind one interface, one API key and one balance. I built it from zero and run engineering: the model router, the workflow engine, the agent runtime, voice, billing, and the infra under all of it.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshgupta2504&theme=dark" alt="utkarshgupta2504" /></p>
-<h3>Trophies: </h3>
+<a href="https://curvet.ai"><img src="assets/router.svg" width="100%" alt="Animated diagram: a request with model auto is scored by Curvet's router, the first provider returns 429, and it falls back to the next provider which returns 200."></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshgupta2504&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshgupta2504" /> </p>
+<details>
+<summary><b>Try it from your terminal</b></summary>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshgupta2504" alt="utkarshgupta2504" /></a> </p>
+```bash
+npm i -g @curvet/cli
+curvet chat -m auto "who is utkarsh?"
+```
+
+<img src="assets/terminal.svg" width="100%" alt="Terminal: the Curvet CLI answering who Utkarsh is">
+
+The CLI also runs as an MCP server (`curvet mcp`), so Claude, Cursor and other agents can use Curvet as a tool. SDK: [`@curvet/sdk`](https://www.npmjs.com/package/@curvet/sdk).
+
+</details>
+
+<br>
+
+### Selected work
+
+<p align="center">
+  <a href="https://curvet.ai"><img src="assets/card-curvet.svg" width="49%" alt="Curvet: every AI model, one workspace"></a>
+  <a href="https://github.com/Curvet-in/curvet-sdk"><img src="assets/card-sdk.svg" width="49%" alt="@curvet/sdk + cli"></a>
+  <a href="https://github.com/utkarshgupta2504/cline-testgen"><img src="assets/card-testgen.svg" width="49%" alt="cline-testgen"></a>
+  <a href="https://github.com/pragati-kumar/NaviFinder-Hackerchiefs"><img src="assets/card-navifinder.svg" width="49%" alt="NaviFinder"></a>
+</p>
+
+<details>
+<summary><b>Earlier projects</b></summary>
+<br>
+
+| | | |
+|---|---|---|
+| [**NSUTx**](https://github.com/zenghost1/NSUTx) | My university portal, rebuilt as an app. 10K+ downloads on Google Play. | Flutter · Firebase |
+| [**ConnectX**](https://github.com/pranjaljain584/ConnectX) | Video conferencing with chat, file sharing and a shared whiteboard. | React · WebRTC · Socket.io |
+| [**Sensus**](https://github.com/samartharoraa/Sensus) | A journal that senses your mood, 85%+ accurate over 1,000+ entries. | React · NLP · AWS |
+
+</details>
+
+<br>
+
+### The path so far
+
+<img src="assets/timeline.svg" width="100%" alt="Timeline: NSUT 2019 to 2023, startups and freelance 2021 to 2023, Samsung R&D 2023 to 2026, Curvet from 2026">
+
+<details>
+<summary><b>Curvet</b> · Co-Founder & CTO · 2026 – now</summary>
+<br>
+
+- One interface, API key and credit balance across 100+ models from 28 providers.
+- "Auto" model selection over a scored registry (quality, strengths, live price) with cross-provider fallback chains, so a failing provider degrades to a working answer instead of an error.
+- A visual workflow builder whose run-time core is one module executed by both the browser and a headless server runner, so the two can't drift.
+- An agent runtime with tiered, search-loaded tools and prompt caching, cutting the fixed prompt overhead of a simple request by more than half.
+- The developer platform: an OpenAI-compatible API used from Cline and OpenCode, plus `@curvet/sdk`, `@curvet/cli` and an MCP server.
+- Indian-language speech recognition and TTS, and a self-hosted voice engine with cloning.
+- Production on GCP with tracing end to end (OpenTelemetry, Grafana, PostHog), a load-test harness and a ~350-file backend test suite.
+
+</details>
+
+<details>
+<summary><b>Samsung R&D Institute</b> · SWE → Senior SWE · 2023 – 2026</summary>
+<br>
+
+- Next-Gen Connectivity: machine learning for the Galaxy Multi-Device Experience.
+- Cut on-device network switching latency 3x with a deep-learning approach.
+- Built internal automation that took 30% off the team's workload.
+- Cross-device connectivity features used by 10M+ Galaxy users. Promoted to Senior in 2025.
+
+</details>
+
+<details>
+<summary><b>Startups & freelance</b> · Flutter → full stack → tech lead · 2021 – 2023</summary>
+<br>
+
+- **Shakespeare AE**, Member of Technical Staff: rebuilt the Flutter app on a custom design system (40% less duplication), moved the backend from Hasura to Node + MongoDB (25% faster APIs), and built a full restaurant PoS on one real-time socket backend.
+- **MyEra**, Technical Lead: a personalization engine embedded by 10+ retail brands through iframes with two-way postMessage callbacks.
+- **Kalpas Innovations**, Core Developer: a Flutter dating app with video calls and geo matchmaking; crashes down 50%.
+- Plus Wyden, Naxome, Blobdesign and Humming Sparrow, and a summer at Samsung R&D on speech enhancement with GANs.
+
+</details>
+
+<br>
+
+### Stack
+
+<img src="assets/stack.svg" width="100%" alt="Stack: LLM orchestration, agents, MCP, model routing, TypeScript, Python, Node.js, React, Flutter, GCP and more">
+
+<br>
+
+### On GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarshgupta2504&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=16&bg_color=0c0c0f&border_color=27272a&title_color=fafafa&text_color=a1a1aa&icon_color=a78bfa&ring_color=8b5cf6" height="170" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshgupta2504&layout=compact&hide_border=false&border_radius=16&bg_color=0c0c0f&border_color=27272a&title_color=fafafa&text_color=a1a1aa" height="170" alt="Top languages">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=utkarshgupta2504&background=0c0c0f&border=27272a&border_radius=16&stroke=27272a&ring=8b5cf6&fire=db2777&currStreakNum=fafafa&sideNums=fafafa&currStreakLabel=a78bfa&sideLabels=a1a1aa&dates=71717a" width="70%" alt="Contribution streak">
+</p>
+
+<details>
+<summary><code>$ curvet --whoami --json</code></summary>
+<br>
+
+```json
+{
+  "name": "Utkarsh Gupta",
+  "role": "Co-Founder & CTO @ Curvet",
+  "based_in": "Bengaluru, India",
+  "previously": ["Senior SWE @ Samsung R&D", "Flutter + full stack @ startups"],
+  "building": ["model routing", "agent runtimes", "voice", "the apps on top"],
+  "ask_me_about": ["LLM infra", "MCP", "shipping fast with a small team"],
+  "wins": [
+    "Smart India Hackathon 2022 finalist (ISRO)",
+    "12th of 6,700 at CodeJitsu, IIT Guwahati",
+    "Won EduThon, IIIT Lucknow, against 600+ teams"
+  ],
+  "resume": "https://utkarshg.is-a.dev/Utkarsh_Gupta_Resume.pdf"
+}
+```
+
+</details>
+
+<br>
+
+<a href="https://curvet.ai"><img src="assets/footer.svg" width="100%" alt="Curvet: every model, one workspace"></a>
+
+<!-- Images in assets/ are generated: edit scripts/build.py and re-run it. -->
