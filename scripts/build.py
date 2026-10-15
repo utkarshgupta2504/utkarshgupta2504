@@ -187,7 +187,7 @@ def hero():
     for i, p in enumerate(phrases):
         rot += t(lead_x, 176, p, 21, "i rot", "url(#brand)", 500,
                  extra=f'style="animation-delay:{i * 3.2}s"')
-    meta = [("Bengaluru, India",), ("ex-Samsung R&D",), ("NSUT ’23",), ("utkarshg.is-a.dev",)]
+    meta = [("Bengaluru, India",), ("ex-Samsung R&D",), ("NSUT ’23",), ("utkarshgupta.dev",)]
     spans = f'<tspan fill="{FAINT}">  ·  </tspan>'.join(f"<tspan>{escape(m[0])}</tspan>" for m in meta)
 
     css = (
@@ -694,7 +694,7 @@ def timeline():
 
 PILLS = [
     ("pill-curvet.svg", "curvet.ai", True),
-    ("pill-site.svg", "utkarshg.is-a.dev", False),
+    ("pill-site.svg", "utkarshgupta.dev", False),
     ("pill-linkedin.svg", "LinkedIn", False),
     ("pill-x.svg", "X / Twitter", False),
     ("pill-npm.svg", "npm", False),

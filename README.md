@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://curvet.ai"><img src="assets/pill-curvet.svg" height="38" alt="curvet.ai"></a>
-  <a href="https://utkarshg.is-a.dev"><img src="assets/pill-site.svg" height="38" alt="utkarshg.is-a.dev"></a>
+  <a href="https://utkarshgupta.dev"><img src="assets/pill-site.svg" height="38" alt="utkarshgupta.dev"></a>
   <a href="https://linkedin.com/in/utkarshgupta2504"><img src="assets/pill-linkedin.svg" height="38" alt="LinkedIn"></a>
   <a href="https://x.com/Utkarsh2504"><img src="assets/pill-x.svg" height="38" alt="X / Twitter"></a>
   <a href="https://www.npmjs.com/package/@curvet/sdk"><img src="assets/pill-npm.svg" height="38" alt="npm"></a>
@@ -134,7 +134,7 @@ The CLI also runs as an MCP server (`curvet mcp`), so Claude, Cursor and other a
     "12th of 6,700 at CodeJitsu, IIT Guwahati",
     "Won EduThon, IIIT Lucknow, against 600+ teams"
   ],
-  "resume": "https://utkarshg.is-a.dev/Utkarsh_Gupta_Resume.pdf"
+  "resume": "https://utkarshgupta.dev/Utkarsh_Gupta_Resume.pdf"
 }
 ```
 
